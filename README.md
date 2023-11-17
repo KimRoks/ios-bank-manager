@@ -104,15 +104,15 @@
 </tr>
 <tr>
 <td>
-<div>
+<div width="523px">
 <img width="auto" height="250" alt="Screenshot 2023-11-17 at 4 14 29 PM" src="https://github.com/KimRoks/ios-bank-manager/assets/76927263/0ebe2044-b798-4bdf-bdb8-c579681094e3">
 <img width="auto" height="250" alt="Screenshot 2023-11-17 at 4 14 26 PM" src="https://github.com/KimRoks/ios-bank-manager/assets/76927263/d908674f-d8e2-443c-8746-dd7b5609ab55">
 </div>
-<div>
+<div width="523px">
 <img width="auto" height="250" alt="Screenshot 2023-11-17 at 4 14 04 PM" src="https://github.com/KimRoks/ios-bank-manager/assets/76927263/206959dc-58da-4dd5-8824-cc541749f1ed">
 <img width="auto" height="250" alt="Screenshot 2023-11-17 at 4 14 00 PM" src="https://github.com/KimRoks/ios-bank-manager/assets/76927263/45b0371c-67da-49d4-9ab9-78aad79a7a63">
 </div>
-<div>
+<div width="523px">
 <img width="auto" height="250" alt="Screenshot 2023-11-17 at 4 13 30 PM" src="https://github.com/KimRoks/ios-bank-manager/assets/76927263/339bf990-6086-40a8-9341-45dad2e498e1">
 <img width="auto" height="250" alt="Screenshot 2023-11-17 at 4 13 16 PM" src="https://github.com/KimRoks/ios-bank-manager/assets/76927263/acde993e-4c6d-4aad-91c4-caee0019120c">
 </div>
